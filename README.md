@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyabvk
 - 👀 I’m interested in Python and QISKIT Programming
-- 🌱 I’m currently learning Python and Selenium Webdriver using Python
+- 🌱 I’m currently learning Quantum Computing and Quantum Machine Learning from IIT-Delhi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : iskcon.priya@gmail.com
 
